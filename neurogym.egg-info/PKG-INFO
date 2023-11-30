@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: neurogym
+Version: 0.0.2
+Summary: NeuroGym: Gym-style cognitive neuroscience tasks
+Home-page: https://github.com/neurogym/neurogym
+Author: Manuel Molano, Guangyu Robert Yang, and contributors
+Provides-Extra: psychopy
+Provides-Extra: all
+Provides-Extra: dev
+License-File: LICENSE
