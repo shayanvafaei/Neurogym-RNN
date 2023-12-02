@@ -1,4 +1,5 @@
 # This is not my work, but my work is based on it and it will be changed by time, and I will change the documents in the end :D
+# During my study of this work, I will share with you the necessary documents to understand the neurogym tasks and their replication.
 
 **Status:** In Development. All tasks are subject to changes right now.
 
